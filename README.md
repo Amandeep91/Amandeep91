@@ -13,7 +13,11 @@
 
 ✔️ I have experience in Backend using Java .<br>
 
-✔️ 🤝 I’m currently Upgrading my Skill's specifically in **JAVA** and **DB** .<br>
+✔️ I’m currently Upgrading my Skill's specifically in **JAVA** and **DB** .<br>
+
+✔️ I’m looking for help with learning technical skill's .<br>
+
+✔️ 💬 Ask me about anything related to **ADMIN, HR, Java technology** .<br>
 
 ✔️ 👨‍💻 All of my projects are available at [Profile ](https://github.com/Amandeep91) . <br>
 
