@@ -13,8 +13,6 @@
 
 ✔️ I have experience in Backend using Java .<br>
 
-<br>
-
 ✔️ 🤝 I’m currently Upgrading my Skill's specifically in **JAVA** and **DB** .<br>
 
 ✔️ 👨‍💻 All of my projects are available at [Profile ](https://github.com/Amandeep91) . <br>
